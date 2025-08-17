@@ -42,3 +42,7 @@ The objective is to generate insights about the spread and impact of COVID-19 an
 
 ## Project Structure  
 
+COVID-19-Data-Analysis
+│── Covid-19 Worldwide.sql # SQL queries & analysis
+│── README.md # Documentation
+
